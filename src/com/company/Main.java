@@ -10,6 +10,7 @@ public class Main {
 
         int a=input.nextInt();
         System.out.println(Math.pow(a,2));
+        System.out.println();
 
     }
 }
